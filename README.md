@@ -1,6 +1,6 @@
-# Telegram Bot Sample
+o# Telegram Bot Sample
 
-/////////
+/tt:wq////////
 
 Simple Telegram bot backend template in PHP (works both in *pull* and in *push* mode).
 
